@@ -1,5 +1,5 @@
-# zhengdianLC
-laizhemegaoer
+# 整点力扣
+今天整这么高儿
 
 ![img](img/birdvoltga.png)
 

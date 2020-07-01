@@ -1,7 +1,7 @@
 # zhengdianLC
 laizhemegaoer
 
-![img](https://api.jikipedia.com/upload/4fa9c951e97b8df4c9d386fd61fa0f67_scaled.png)
+![img](img/birdvoltga.png)
 
 
 # LC problem  
